@@ -34,7 +34,7 @@ Climate change is a global issue that affects our planet and its inhabitants. Th
 
 ## Data Source
 --------------
-The data used for this project was obtained from [https://www.wunderground.com/]. The dataset includes It contains [insert number of samples] samples of global temperature measurements, spanning from [2015] to [2023]. Each sample includes [insert details about the features included in the dataset]. 
+The data used for this project was obtained from [https://www.wunderground.com/]. The dataset includes It contains [1,744,472] samples of global temperature measurements, spanning from [2015] to [2023]. Each sample includes ['Year', 'Month', 'Day', 'Temperature', 'Temp Dew Point', 'Humidity', 'Wind Direction', 'Wind Speed', 'Precipitation', 'Condition', 'Location', 'Serialized Hemisphere']. 
 
 The data was preprocessed by: 
 
