@@ -62,9 +62,6 @@ To install the necessary packages, run the following command:
 
 ```pip install -r requirements.txt```
 
-## Usage
---------
-To use this project, [insert details about how to use the project here].
 
 ## Results
 ----------
