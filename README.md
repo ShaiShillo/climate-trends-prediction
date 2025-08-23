@@ -5,7 +5,7 @@ Therefore, to make the project accessible and viewable for users, I had to find 
 After some research, I came across a third-party website that allowed me to host my project and present it in a user-friendly manner.
 
 Please note that while this was not an ideal situation, I made sure to choose a reputable and secure website to ensure the integrity of my project. 
-I apologize for any inconvenience this may cause and hope that this workaround allows for a seamless and enjoyable viewing experience of my project !.
+I apologize for any inconvenience this may cause and  hope that this workaround allows for a seamless and enjoyable viewing experience of my project !.
 LINK: https://nbviewer.org/github/ShaiShillo/climate-trends-prediction/blob/master/.ipynb_checkpoints/Final_project_presentation_one_pager-checkpoint.ipynb
 
 
